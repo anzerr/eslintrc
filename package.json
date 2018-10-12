@@ -1,0 +1,10 @@
+{
+	"name": "eslintrc",
+	"version": "1.0.1",
+	"description": "eslintrc",
+	"license": "MIT",
+	"scripts": {},
+	"peerDependencies": {
+		"eslint": ">= 3"
+	}
+}
