@@ -1,7 +1,7 @@
 {
-	"name": "eslintrc",
-	"version": "1.0.1",
-	"description": "eslintrc",
+	"name": "eslint-config-basic",
+	"version": "1.0.0",
+	"description": "eslint-config-basic",
 	"license": "MIT",
 	"scripts": {},
 	"peerDependencies": {
