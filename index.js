@@ -3,13 +3,14 @@ let OFF = 0, WARN = 1, ERROR = 2;
 module.exports = exports = {
 	env: {
 		es6: true,
-		node: true
+		node: true,
+		amd: true
 	},
 
 	extends: 'eslint:recommended',
-	
+
 	parserOptions: {
-	   ecmaVersion: 2017
+	   ecmaVersion: 2019
 	},
 
 	globals: {
