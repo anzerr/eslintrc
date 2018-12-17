@@ -17,6 +17,7 @@ module.exports = exports = {
 		module: true,
 		console: true,
 		process: true,
+		SharedArrayBuffer: true,
 		require: true
 	},
 
