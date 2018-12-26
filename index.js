@@ -43,7 +43,7 @@ module.exports = exports = {
 			setWithoutGet: true
 		}],
 		'block-scoped-var': WARN,
-		'consistent-return': ERROR,
+		'consistent-return': OFF,
 		'curly': ERROR,
 		'default-case': WARN,
 		// the dot goes with the property when doing multiline
