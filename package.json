@@ -11,10 +11,14 @@
 		"url": "git+https://github.com/anzerr/eslintrc.git"
 	},
 	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"author": "anzerr",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/anzerr/eslintrc/issues"
 	},
-	"homepage": "https://github.com/anzerr/eslintrc#readme"
+	"homepage": "https://github.com/anzerr/eslintrc#readme",
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"types": "index.d.ts"
 }
