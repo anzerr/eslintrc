@@ -4,7 +4,8 @@ module.exports = exports = {
 	env: {
 		es6: true,
 		node: true,
-		amd: true
+		amd: true,
+		mocha: true
 	},
 
 	extends: 'eslint:recommended',
