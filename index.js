@@ -2,7 +2,7 @@ let OFF = 0, WARN = 1, ERROR = 2;
 
 module.exports = exports = {
 	env: {
-		es6: true,
+		es2020: true,
 		node: true,
 		amd: true,
 		mocha: true
@@ -11,7 +11,7 @@ module.exports = exports = {
 	extends: 'eslint:recommended',
 
 	parserOptions: {
-	   ecmaVersion: 9
+	   ecmaVersion: 11
 	},
 
 	globals: {
