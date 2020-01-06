@@ -2,7 +2,7 @@ let OFF = 0, WARN = 1, ERROR = 2;
 
 module.exports = exports = {
 	env: {
-		es2017: true,
+		es2020: true,
 		node: true,
 		amd: true,
 		mocha: true
