@@ -1,27 +1,25 @@
 {
 	"name": "eslint-config-basic",
 	"version": "1.0.9",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+	"keywords": [],
+	"homepage": "https://github.com/anzerr/eslintrc#readme",
+	"bugs": {
+		"url": "https://github.com/anzerr/eslintrc/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:anzerr/eslintrc.git"
 	},
+	"license": "MIT",
+	"author": "anzerr",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"scripts": {},
 	"dependencies": {
 		"eslint": "^6.8.0"
 	},
-	"keywords": [],
-	"author": "anzerr",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/anzerr/eslintrc/issues"
-	},
-	"homepage": "https://github.com/anzerr/eslintrc#readme",
 	"engines": {
 		"node": ">= 0.10.0"
 	},
-	"types": "index.d.ts"
+	"description": ""
 }
