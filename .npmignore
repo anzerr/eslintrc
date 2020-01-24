@@ -3,3 +3,4 @@ node_modules/*
 .tag*
 .github
 LICENSE
+README.md
