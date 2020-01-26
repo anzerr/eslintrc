@@ -1,7 +1,12 @@
 {
 	"name": "eslint-config-basic",
 	"version": "1.0.10",
-	"keywords": [],
+	"keywords": [
+		"eslint",
+		"linter",
+		"nodejs",
+		"util"
+	],
 	"homepage": "https://github.com/anzerr/eslintrc#readme",
 	"bugs": {
 		"url": "https://github.com/anzerr/eslintrc/issues"
@@ -21,5 +26,5 @@
 	"engines": {
 		"node": ">= 0.10.0"
 	},
-	"description": ""
+	"description": "eslint rules"
 }
