@@ -21,7 +21,7 @@
 	"types": "index.d.ts",
 	"scripts": {},
 	"dependencies": {
-		"eslint": "^6.8.0"
+		"eslint": "^7.4.0"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
